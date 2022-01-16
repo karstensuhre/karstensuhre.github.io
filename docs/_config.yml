@@ -20,11 +20,10 @@
 
 title: Karsten Suhre's Blog
 email: blog@metabolomix.com
-description: >- # this means to ignore newlines until "baseurl:"
-A professional research blog ... more to come ... these pages extend http://metabolomix.com
+description: A professional research blog ... more to come ... these pages extend http://metabolomix.com
+baseurl: "/"
 domain: "karstensuhre.github.io" # the subpath of your site, e.g. /blog
 url: "https://karstensuhre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/"
 twitter_username: ksuhre
 github_username:  karstensuhre
 
