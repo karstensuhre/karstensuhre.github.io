@@ -19,18 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Karsten Suhre's Blog
-email: blog@metabolomix.com
+# email: blog@metabolomix.com
 description: A professional research blog ... more to come ... these pages extend http://metabolomix.com
 baseurl: "/"
 domain: "karstensuhre.github.io" # the subpath of your site, e.g. /blog
 url: "https://karstensuhre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ksuhre
 github_username:  karstensuhre
+show_excerpts: false
 
 # Build settings
-theme: minima
+#theme: minima
+#theme: jekyll-theme-slate
+#remote_theme: pages-themes/slate@v0.2.0
+
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +56,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#KS: from https://jekyllrb.com/docs/static-files/
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

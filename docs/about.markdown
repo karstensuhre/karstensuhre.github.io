@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog is maintained by [Karsten Suhre](https://vivo.weill.cornell.edu/display/cwid-kas2049).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Social media links
+* [Metabolomix Blog](http://metabolomix.com)
+* [Twitter](https://twitter.com/ksuhre)
+* [LinkedIn](https://www.linkedin.com/in/karstensuhre/)
+* [Lab Page](http://suhre.fr/) (somewhat outdated)
+* [Cornell Vivo](https://vivo.weill.cornell.edu/display/cwid-kas2049)
+* [Orcid](https://orcid.org/0000-0001-9638-3912)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
